@@ -1,0 +1,37 @@
+<select class="btn btn-outline-light my-2 d-block" style="width:165px;" name="city" id="city-select" >
+    <option value="" disabled selected hidden>{{__("المدينة")}}</option>
+    <option value="الرياض">{{__("الرياض")}}</option>
+    <option value="جدة">{{__("جدة")}}</option>
+    <option value="ابها">{{__("ابها")}}</option>
+    <option value="الاحساء">{{__("الاحساء")}}</option>
+    <option value="الباحة">{{__("الباحة")}}</option>
+    <option value="بريدة">{{__("بريدة")}}</option>
+    <option value="بيشة">{{__("بيشة")}}</option>
+    <option value="تبوك">{{__("تبوك")}}</option>
+    <option value="جازان">{{__("جازان")}}</option>
+    <option value="الجبيل">{{__("الجبيل")}}</option>
+    <option value="حائل">{{__("حائل")}}</option>
+    <option value="حفر الباطن">{{__("حفر الباطن")}}</option>
+    <option value="الخبر">{{__("الخبر")}}</option>
+    <option value="الخرج">{{__("الخرج")}}</option>
+    <option value="الخفجي">{{__("الخفجي")}}</option>
+    <option value="الدمام">{{__("الدمام")}}</option>
+    <option value="الدوادمي">{{__("الدوادمي")}}</option>
+    <option value="الرس">{{__("الرس")}}</option>
+    <option value="الزلفي">{{__("الزلفي")}}</option>
+    <option value="سدير">{{__("سدير")}}</option>
+    <option value="سكاكا">{{__("سكاكا")}}</option>
+    <option value="شقراء">{{__("شقراء")}}</option>
+    <option value="الطائف">{{__("الطائف")}}</option>
+    <option value="عرعر">{{__("عرعر")}}</option>
+    <option value="عنيزة">{{__("عنيزة")}}</option>
+    <option value="القطيف">{{__("القطيف")}}</option>
+    <option value="القنفذة">{{__("القنفذة")}}</option>
+    <option value="المجمعة">{{__("المجمعة")}}</option>
+    <option value="المدينة المنورة">{{__("المدينة المنورة")}}</option>
+    <option value="مكة المكرمة">{{__("مكة المكرمة")}}</option>
+    <option value="خميس مشيط">{{__("خميس مشيط")}}</option>
+    <option value="نجران">{{__("نجران")}}</option>
+    <option value="ينبع">{{__("ينبع")}}</option>
+    <option value="">{{__("بدون تحديد")}}</option>
+</select>

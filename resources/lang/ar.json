@@ -1,0 +1,21 @@
+{
+    "The email has already been taken.": "هذا البريد الإلكتروني مستخدم من قبل.",
+    "The password confirmation does not match.": "كلمة المرور غير متطابقة.",
+    "These credentials do not match our records.": "البيانات لا تتطابق مع سجلاتنا.",
+    "A fresh verification link has been sent to your email address.": "تم ارسال رابط تحقق لبريدك الإلكتروني",
+   "We can't find a user with that email address.": "البريد الإلكتروني لايطابق سجالتنا",
+    "added": "تمت إضافته",
+    "closed": "مغلق",
+    "recovered": "تمت إستعادته",
+    "updated": "تم تحديثه",
+    "blocked": "محظور",
+    "unblocked": "غير محظور",
+    "unclosed": "غير مغلق",
+    "Block All": "حظر الكل",
+    "Recover All": "استعادة الكل",
+    "suggestion": "اقتراح",
+    "report": "بلاغ",
+    "noSelection": "غير محدد",
+    "The lat field is required.": "إحداثيات الطول التابعه للموقع مطلوبه!",
+    "The lng field is required.": "إحداثيات العرض التابعه للموقع مطلوبه!"
+}
